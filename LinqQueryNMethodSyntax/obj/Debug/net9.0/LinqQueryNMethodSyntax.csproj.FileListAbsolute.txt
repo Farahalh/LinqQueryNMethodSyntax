@@ -1,0 +1,14 @@
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\bin\Debug\net9.0\LinqQueryNMethodSyntax.exe
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\bin\Debug\net9.0\LinqQueryNMethodSyntax.deps.json
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\bin\Debug\net9.0\LinqQueryNMethodSyntax.runtimeconfig.json
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\bin\Debug\net9.0\LinqQueryNMethodSyntax.dll
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\bin\Debug\net9.0\LinqQueryNMethodSyntax.pdb
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.AssemblyInfo.cs
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.dll
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\refint\LinqQueryNMethodSyntax.dll
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.pdb
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\LinqQueryNMethodSyntax.genruntimeconfig.cache
+C:\Users\Farah\source\repos\LinqQueryNMethodSyntax\LinqQueryNMethodSyntax\obj\Debug\net9.0\ref\LinqQueryNMethodSyntax.dll
